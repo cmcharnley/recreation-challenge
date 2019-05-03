@@ -1,0 +1,142 @@
+.topbar {
+    display: inline-block; 
+    height: 30px; 
+    padding: 10px;
+    width: auto; 
+}
+
+
+ul {
+    list-style-type: none;
+    margin:0;                                                   
+    padding-left: 90px;
+    padding-right: 90px;
+    background-color: whitesmoke;
+    height: 30px; 
+    width: auto; 
+    }
+
+li {
+    display: inline; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 20px;
+    color: black;
+}
+
+input {
+    width: 700px; 
+    height: 40px; 
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.offerbanner {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px; 
+    display: inline-block;
+    background-color: #FADADD;
+    width: 33%;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+}
+h2 {
+    font-weight: normal;
+}
+
+#banner {
+    width: 100vw; 
+}
+
+.buttonclass {
+    background-color: #e3a5b0;
+    width: 100vw;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: white; 
+    color: #e3a5b0;
+    cursor: pointer;
+}
+
+.button {
+   font-size: 14px;
+   color: white; 
+   padding: 20px 40px; 
+   background-color:#e3a5b0;
+}
+
+#mainbanner {
+    width: 100vw; 
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: darkslategray;
+}
+
+#categories {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategray;
+}
+
+.shopcategory {
+    display: inline-block;
+}
+/*
+.flex-container {
+    display: flex; 
+    flex-direction: row; 
+}
+
+.article {
+    padding: 5px; 
+    margin: 5px; 
+}
+h5 {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategray; 
+    font-size: 16px; 
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategray; 
+    font-size: 14px; 
+}
+*/
+
+#charitybanner img {
+    display: block;
+    width: 100vw;
+    height: auto;
+}
+
+#footer {
+    background-color: #FADADD; 
+}
+
+h5 {
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 22px; 
+
+}
+
+p {
+    text-align: center; 
+    font-size: 12px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.emailaddress {
+    text-align: center; 
+}
